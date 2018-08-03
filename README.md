@@ -1,2 +1,3 @@
-# learnJupyterDS
-Ejercicio básico sobre Game of Thrones para aprender conceptos básicos de Jupyter en Data Science. 
+# Game of Thrones Jupyter
+
+First steps with Jupyter Notebook and Data Science
